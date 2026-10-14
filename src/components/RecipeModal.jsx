@@ -1,0 +1,1 @@
+//one card (image, name, category . area, View Recipe)
